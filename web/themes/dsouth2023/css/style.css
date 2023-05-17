@@ -1,0 +1,19 @@
+:root {
+  --color--primary-hue: 100 !important;
+}
+
+.btn-component {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 29px 71px;
+  gap: 10px;
+  position: relative;
+  width: 209px;
+  height: 76px;
+  background: #a6a6a6;
+  border-radius: 15px;
+  text-transform: lowercase;
+  font-weight: 700;
+  border: none;
+}

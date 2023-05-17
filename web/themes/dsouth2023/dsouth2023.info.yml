@@ -1,0 +1,22 @@
+name: DruaplSouth2023
+type: theme
+description: This is a preso sub theme of Olivero
+core_version_requirement: ^10
+base theme: olivero
+# Defines libraries group in which we can add CSS/JS.
+libraries:
+  - dsouth2023/global-styling
+regions:
+  header: Header
+  primary_menu: "Primary menu"
+  secondary_menu: "Secondary menu"
+  hero: "Hero (full width)"
+  highlighted: Highlighted
+  breadcrumb: Breadcrumb
+  social: Social Bar
+  content_above: Content Above
+  content: Content
+  sidebar: "Sidebar"
+  content_below: "Content Below"
+  footer_top: "Footer Top"
+  footer_bottom: "Footer Bottom"
