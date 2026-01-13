@@ -4,7 +4,7 @@ This is a repository from my Drupal South 2023 talk:
 
 **"Automate your tests so you can drink more coffee"**.
 
-Link to talk: COMING SOON
+Link to talk: <https://www.youtube.com/watch?v=iJzGEJZ2r44>
 
 ## Getting Started
 
